@@ -1,0 +1,5 @@
+2019-12-02 13:28:27,339 ----->user_log.py <module> : 33 DEBUG------->test 
+2019-12-02 13:40:33,168 ----->user_log.py <module> : 47 DEBUG------->ttttt 
+2019-12-02 13:45:22,117 ----->user_log.py <module> : 52 DEBUG------->ttttt 
+2019-12-02 13:47:02,903 ----->keyword_case.py run_main : 15 DEBUG------->kaishi 
+2019-12-02 13:50:45,999 ----->keyword_case.py run_main : 18 INFO------->kaishi 

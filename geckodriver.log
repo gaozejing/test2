@@ -1,0 +1,17 @@
+1574737777331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\高泽静\\AppData\\Local\\Temp\\rust_mozprofileYaiMFP"
+Unable to read VR Path Registry from C:\Users\高泽静\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\高泽静\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\高泽静\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\高泽静\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\高泽静\AppData\Local\openvr\openvrpaths.vrpath
+1574737780143	Marionette	INFO	Listening on port 54606
+1574737780172	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 156900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 156900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
